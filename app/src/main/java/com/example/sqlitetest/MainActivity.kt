@@ -7,6 +7,9 @@ import android.util.Log
 import android.widget.*
 import androidx.appcompat.app.AlertDialog
 
+/**
+ * Test
+ */
 class MainActivity : AppCompatActivity() {
 
     // Object to interact with the DB
